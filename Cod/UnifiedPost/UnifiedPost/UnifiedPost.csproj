@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1F0216DA-4DFD-4D93-A6F0-ABC73BD0A6CC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UnifiedPost</RootNamespace>
+    <AssemblyName>UnifiedPost</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=11.0.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
+    <Reference Include="ExcelLibrary">
+      <HintPath>..\..\ExcelLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="mysql.data">
+      <HintPath>..\..\mysql.data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forme\!main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\!main.Designer.cs">
+      <DependentUpon>!main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\administrator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\administrator.Designer.cs">
+      <DependentUpon>administrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\budget.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\budget.Designer.cs">
+      <DependentUpon>budget.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\chartstatistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\chartstatistics.Designer.cs">
+      <DependentUpon>chartstatistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\settings.Designer.cs">
+      <DependentUpon>settings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\subuser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\subuser.Designer.cs">
+      <DependentUpon>subuser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\users.Designer.cs">
+      <DependentUpon>users.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\vote.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\vote.Designer.cs">
+      <DependentUpon>vote.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\votefor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\votefor.Designer.cs">
+      <DependentUpon>votefor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Welcome.Designer.cs">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forme\!main.resx">
+      <DependentUpon>!main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\administrator.resx">
+      <DependentUpon>administrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\budget.resx">
+      <DependentUpon>budget.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\chartstatistics.resx">
+      <DependentUpon>chartstatistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\settings.resx">
+      <DependentUpon>settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\subuser.resx">
+      <DependentUpon>subuser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\users.resx">
+      <DependentUpon>users.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\vote.resx">
+      <DependentUpon>vote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\votefor.resx">
+      <DependentUpon>votefor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Welcome.resx">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit_hov.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit_norm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize_hov.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize_norm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_main.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stea.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stea_on.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\berry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bright.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brightpastel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chocolate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earthtones.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fire.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grayscale.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pastel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seagreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\semitransparent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_sus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,42 @@
+C:\Users\Cornea\Desktop\UnifiedPost\UnifiedPost\bin\Debug\UnifiedPost.exe
+C:\Users\Cornea\Desktop\UnifiedPost\UnifiedPost\bin\Debug\UnifiedPost.pdb
+C:\Users\Cornea\Desktop\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Form1.resources
+C:\Users\Cornea\Desktop\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Properties.Resources.resources
+C:\Users\Cornea\Desktop\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.csproj.GenerateResource.Cache
+C:\Users\Cornea\Desktop\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.exe
+C:\Users\Cornea\Desktop\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.pdb
+C:\Users\Cornea\Desktop\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Forme.Welcome.resources
+C:\Users\Cornea\Desktop\UnifiedPost\UnifiedPost\bin\Debug\UnifiedPost.exe.config
+C:\Users\Cornea\Desktop\UnifiedPost\UnifiedPost\bin\Debug\mysql.data.dll
+C:\Users\Cornea\Desktop\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Forme._main.resources
+C:\Users\Cornea\Desktop\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Forme.vote.resources
+C:\Users\Cornea\Desktop\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Forme.votefor.resources
+C:\Users\Cornea\Desktop\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Forme.settings.resources
+C:\Documents and Settings\Justinian\My Documents\Visual Studio 2010\Projects\UnifiedPost\UnifiedPost\bin\Debug\UnifiedPost.exe.config
+C:\Documents and Settings\Justinian\My Documents\Visual Studio 2010\Projects\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.exe
+C:\Documents and Settings\Justinian\My Documents\Visual Studio 2010\Projects\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.pdb
+C:\Users\Cornea\Desktop\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Forme.administrator.resources
+C:\Users\Cornea\Desktop\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Forme.users.resources
+C:\Users\Cornea\Desktop\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Forme.subuser.resources
+C:\Users\Cornea\Desktop\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Forme.chartstatistics.resources
+C:\Users\Cornea\Desktop\UnifiedPost\UnifiedPost\bin\Debug\ExcelLibrary.dll
+C:\Users\Cornea\Desktop\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Forme.budget.resources
+C:\Users\Cornea\Desktop\Cod\UnifiedPost\UnifiedPost\bin\Debug\UnifiedPost.exe.config
+C:\Users\Cornea\Desktop\Cod\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.exe
+C:\Users\Cornea\Desktop\Cod\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.pdb
+C:\Users\Cornea\Desktop\Cod\UnifiedPost\UnifiedPost\bin\Debug\UnifiedPost.exe
+C:\Users\Cornea\Desktop\Cod\UnifiedPost\UnifiedPost\bin\Debug\UnifiedPost.pdb
+C:\Users\Cornea\Desktop\Cod\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.csprojResolveAssemblyReference.cache
+C:\Users\Cornea\Desktop\Cod\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Forme._main.resources
+C:\Users\Cornea\Desktop\Cod\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Forme.administrator.resources
+C:\Users\Cornea\Desktop\Cod\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Forme.budget.resources
+C:\Users\Cornea\Desktop\Cod\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Forme.chartstatistics.resources
+C:\Users\Cornea\Desktop\Cod\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Form1.resources
+C:\Users\Cornea\Desktop\Cod\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Forme.settings.resources
+C:\Users\Cornea\Desktop\Cod\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Forme.subuser.resources
+C:\Users\Cornea\Desktop\Cod\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Forme.users.resources
+C:\Users\Cornea\Desktop\Cod\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Forme.vote.resources
+C:\Users\Cornea\Desktop\Cod\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Forme.votefor.resources
+C:\Users\Cornea\Desktop\Cod\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Forme.Welcome.resources
+C:\Users\Cornea\Desktop\Cod\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.Properties.Resources.resources
+C:\Users\Cornea\Desktop\Cod\UnifiedPost\UnifiedPost\obj\x86\Debug\UnifiedPost.csproj.GenerateResource.Cache

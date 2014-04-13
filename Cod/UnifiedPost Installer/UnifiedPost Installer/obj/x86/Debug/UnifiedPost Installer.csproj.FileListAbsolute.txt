@@ -1,0 +1,25 @@
+c:\documents and settings\justinian\my documents\visual studio 2010\Projects\UnifiedPost Installer\UnifiedPost Installer\bin\Debug\UnifiedPost Installer.exe
+c:\documents and settings\justinian\my documents\visual studio 2010\Projects\UnifiedPost Installer\UnifiedPost Installer\bin\Debug\UnifiedPost Installer.pdb
+c:\documents and settings\justinian\my documents\visual studio 2010\Projects\UnifiedPost Installer\UnifiedPost Installer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\justinian\my documents\visual studio 2010\Projects\UnifiedPost Installer\UnifiedPost Installer\obj\x86\Debug\UnifiedPost_Installer.Form1.resources
+c:\documents and settings\justinian\my documents\visual studio 2010\Projects\UnifiedPost Installer\UnifiedPost Installer\obj\x86\Debug\UnifiedPost_Installer.Properties.Resources.resources
+c:\documents and settings\justinian\my documents\visual studio 2010\Projects\UnifiedPost Installer\UnifiedPost Installer\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\justinian\my documents\visual studio 2010\Projects\UnifiedPost Installer\UnifiedPost Installer\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\justinian\my documents\visual studio 2010\Projects\UnifiedPost Installer\UnifiedPost Installer\obj\x86\Debug\UnifiedPost Installer.exe
+c:\documents and settings\justinian\my documents\visual studio 2010\Projects\UnifiedPost Installer\UnifiedPost Installer\obj\x86\Debug\UnifiedPost Installer.pdb
+C:\Documents and Settings\Justinian\My Documents\Visual Studio 2010\Projects\Copy of UnifiedPost Installer\UnifiedPost Installer\obj\x86\Debug\UnifiedPost Installer.exe
+C:\Documents and Settings\Justinian\My Documents\Visual Studio 2010\Projects\Copy of UnifiedPost Installer\UnifiedPost Installer\obj\x86\Debug\UnifiedPost Installer.pdb
+C:\Documents and Settings\Justinian\My Documents\Visual Studio 2010\Projects\Copy of UnifiedPost Installer\UnifiedPost Installer\bin\Debug\UnifiedPost Installer.exe
+C:\Documents and Settings\Justinian\My Documents\Visual Studio 2010\Projects\Copy of UnifiedPost Installer\UnifiedPost Installer\bin\Debug\UnifiedPost Installer.pdb
+C:\Documents and Settings\Justinian\My Documents\Visual Studio 2010\Projects\Copy of UnifiedPost Installer\UnifiedPost Installer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Justinian\My Documents\Visual Studio 2010\Projects\Copy of UnifiedPost Installer\UnifiedPost Installer\obj\x86\Debug\UnifiedPost_Installer.Form1.resources
+C:\Documents and Settings\Justinian\My Documents\Visual Studio 2010\Projects\Copy of UnifiedPost Installer\UnifiedPost Installer\obj\x86\Debug\UnifiedPost_Installer.Properties.Resources.resources
+C:\Documents and Settings\Justinian\My Documents\Visual Studio 2010\Projects\Copy of UnifiedPost Installer\UnifiedPost Installer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Justinian\My Documents\Visual Studio 2010\Projects\Copy of UnifiedPost Installer\UnifiedPost Installer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cornea\Desktop\Cod\UnifiedPost Installer\UnifiedPost Installer\obj\x86\Debug\UnifiedPost Installer.exe
+C:\Users\Cornea\Desktop\Cod\UnifiedPost Installer\UnifiedPost Installer\obj\x86\Debug\UnifiedPost Installer.pdb
+C:\Users\Cornea\Desktop\Cod\UnifiedPost Installer\UnifiedPost Installer\bin\Debug\UnifiedPost Installer.exe
+C:\Users\Cornea\Desktop\Cod\UnifiedPost Installer\UnifiedPost Installer\bin\Debug\UnifiedPost Installer.pdb
+C:\Users\Cornea\Desktop\Cod\UnifiedPost Installer\UnifiedPost Installer\obj\x86\Debug\UnifiedPost_Installer.Form1.resources
+C:\Users\Cornea\Desktop\Cod\UnifiedPost Installer\UnifiedPost Installer\obj\x86\Debug\UnifiedPost_Installer.Properties.Resources.resources
+C:\Users\Cornea\Desktop\Cod\UnifiedPost Installer\UnifiedPost Installer\obj\x86\Debug\UnifiedPost Installer.csproj.GenerateResource.Cache
